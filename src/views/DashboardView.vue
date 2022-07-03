@@ -45,7 +45,7 @@ import salesData from '../data/sales.json'
 import statisticsData from '../data/statistics.json'
 
 export default {
-  name: 'DashboardPage',
+  name: 'DashboardView',
   components: {
     EmployeesTable,
     EventTimeline,
